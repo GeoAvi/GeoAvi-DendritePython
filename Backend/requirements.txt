@@ -1,0 +1,6 @@
+Flask==2.0.1
+Werkzeug==2.0.3
+Flask-GraphQL==2.0.0
+Graphene==2.1.8
+keycloak==3.1.5
+stripe==2.55.0
